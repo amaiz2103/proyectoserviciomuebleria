@@ -12,6 +12,7 @@
         <nav>
             <ul>
                 <li class="boton"> <a href="index.html"  class="textoboton">Inicio</a></li>
+                <li class="boton"> <a href="Articulos.html" class="textoboton">Articulos</a></li>
                 <li class="boton"> <a href="Porfolio.html"  class="textoboton">Porfolio</a></li>
 				<li> Contacto  </li>
             </ul>
